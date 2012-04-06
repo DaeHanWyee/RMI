@@ -6,6 +6,6 @@ public class OurClass implements Runnable, Serializable
 {
     public void run()
     {
-	System.out.println("I'm OurClass");
+	System.out.println("Hello from OurClass!");
     }
 }
