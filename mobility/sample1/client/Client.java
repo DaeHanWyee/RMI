@@ -1,10 +1,5 @@
-/* -*- indent-tabs-mode: nil; -*- */
-
-package client;
-
 import java.rmi.Naming;
 import java.rmi.RMISecurityManager;
-import server.ServerIntf;
 
 public class Client
 {

@@ -1,5 +1,3 @@
-package server;
-
 import java.io.Serializable;
 
 public class OurClass implements Runnable, Serializable
